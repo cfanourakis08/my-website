@@ -2,6 +2,4 @@
 
 branch update
 
-Another branch update
-
-Update locally
+Updates made on master on github
